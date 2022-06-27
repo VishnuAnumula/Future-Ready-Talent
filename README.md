@@ -1,7 +1,7 @@
 # Future-Ready-Talent
 Project Description: This is a professional portfolio that's built using HTML, CSS and JavaScript for my college placement purpose, I used Azure Static Web App service to deploy it and Azure DevOps to deploy the GitHub repository.
 <br/><br/>
-Deployment URL (deployed in azure): https://orange-pond-03f915d10.1.azurestaticapps.net/index.html
+Deployment URL: https://orange-pond-03f915d10.1.azurestaticapps.net/index.html
 <br/><br/>
 Video URL: 
 https://user-images.githubusercontent.com/70309244/175908178-2b9c64e0-e09a-4126-b6f6-3f356502217a.mp4
